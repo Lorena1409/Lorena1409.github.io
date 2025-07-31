@@ -128,9 +128,9 @@
       <div class="competence-bar">Python : <div class="bar"><div class="fill" style="width: 60%"></div></div></div>
       <div class="competence-bar">Java : <div class="bar"><div class="fill" style="width: 20%"></div></div></div>
       <div class="competence-bar">Linux : <div class="bar"><div class="fill" style="width: 20%"></div></div></div>
-      <div class="competence-bar">GitHub : <div class="bar"><div class="fill" style="width: 50%"></div></div></div>
+      <div class="competence-bar">GitHub : <div class="bar"><div class="fill" style="width: 30%"></div></div></div>
       <div class="competence-bar">TinkerCAD : <div class="bar"><div class="fill" style="width: 90%"></div></div></div>
-      <div class="competence-bar">EXCEL : <div class="bar"><div class="fill" style="width: 40%"></div></div></div>
+      <div class="competence-bar">EXCEL : <div class="bar"><div class="fill" style="width: 30%"></div></div></div>
       <ul>
         <li>(Ces informations sont approximatives. Je peux aussi apprendre des compétences spécifique dont vous avez besoin dans un ou plusieurs domaines.)</li>
       </ul>
