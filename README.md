@@ -1,1 +1,177 @@
-# Lorena1409.github.io
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lorena Milioto - CV</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #fcc4f7;
+      margin: 0;
+      padding: 0;
+      color: #502c4d;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      margin-top: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 20px;
+      margin: 5px 0;
+    }
+    h2.title {
+      font-size: 30px;
+      color: #fcc4f7;
+      margin-bottom: 5px;
+    }
+    .contact {
+      margin-bottom: 20px;
+    }
+    .contact p, .contact a {
+      margin: 5px 0;
+      font-size: 15px;
+    }
+    section {
+      margin-top: 30px;
+    }
+    h3 {
+      color: #fcc4f7;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .competence-bar {
+      margin: 5px 0 10px;
+    }
+    .bar {
+      height: 10px;
+      background-color: #ddd;
+      border-radius: 5px;
+      overflow: hidden;
+    }
+    .fill {
+      height: 10px;
+      background-color: #fcc4f7;
+    }
+    .github-logo {
+      width: 20px;
+      vertical-align: middle;
+    }
+    .highlight {
+      font-weight: bold;
+    }
+
+    .projet {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #e0a7d4;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="title"> Recherche Alternance BTS SIO</h2>
+    <h1>Lorena Milioto</h1>
+
+    <div class="contact">
+      <p> Secteur de mobilité : Lyon et alentours (accessible en transports)</p>
+      <p> 06 14 50 91 46         lorenamilioto@gmail.com</p>
+      <p>
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="github-logo">
+        <a href="https://github.com/Lorena1409/" target="_blank">Mon GitHub</a>
+      </p>
+    </div>
+
+    <section>
+      <h3> Qui suis-je</h3>
+      <p>Enchantée, je m'appelle Lorena Milioto. Ma passion pour l'informatique est née grâce à mon frère, électricien et développeur, qui
+         m’a très tôt initiée à cet univers. Petite, j’adorais explorer les programmes, trouver des failles ou des astuces pour contourner les règles, 
+         souvent par malice plus que par curiosité.
+         Aujourd’hui, à 19 ans, je suis prête à entrer dans le monde professionnel. 
+        Je suis persuadée que l’apprentissage passe avant tout par la pratique, et je suis déterminée à progresser au contact du terrain, au-delà des cours théoriques.</p>
+    </section>
+
+
+    <section>
+        <h3> Vos Avantages </h3>
+        <p> J'en veux. Véritable éponge à savoir, je suis volontaire, motivée et loin d’être fainéante : j'ai tout a y gagner.
+            Pleinement disponible pour commencer à apprendre les compétences clés de votre entreprise dès le mois d’août. </p>
+      </section>
+
+    <section>
+      <h3> Mes Qualités</h3>
+      <ul>
+        <li>Esprit logique</li>
+        <li>Autonomie</li>
+        <li>Aisance relationnelle</li>
+        <li>Capacité d'adaptation</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3> Mes Compétences</h3>
+      <div class="competence-bar">HTML : <div class="bar"><div class="fill" style="width: 90%"></div></div></div>
+      <div class="competence-bar">CSS : <div class="bar"><div class="fill" style="width: 90%"></div></div></div>
+      <div class="competence-bar">Python : <div class="bar"><div class="fill" style="width: 60%"></div></div></div>
+      <div class="competence-bar">Java : <div class="bar"><div class="fill" style="width: 20%"></div></div></div>
+      <div class="competence-bar">Linux : <div class="bar"><div class="fill" style="width: 20%"></div></div></div>
+      <div class="competence-bar">GitHub : <div class="bar"><div class="fill" style="width: 50%"></div></div></div>
+      <div class="competence-bar">TinkerCAD : <div class="bar"><div class="fill" style="width: 90%"></div></div></div>
+      <div class="competence-bar">EXCEL : <div class="bar"><div class="fill" style="width: 40%"></div></div></div>
+      <ul>
+        <li>(Ces informations sont approximatives. Je peux aussi apprendre des compétences spécifique dont vous avez besoin dans un ou plusieurs domaines.)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3> Mes Langues</h3>
+      <ul>
+        <li>Français : courant</li>
+        <li>Italien : courant</li>
+        <li>Anglais : bonne compréhension, conversation technique possible</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3> Mes Loisirs</h3>
+      <ul>
+        <li>Séances de débats</li>
+        <li>Pilates légers le matin</li>
+        <li>Gaming</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3> Les Expériences concrètes</h3>
+      <ul>
+        <li>Création d'une boîte de bureau connectée en groupe : affichage de l'heure, température, humidité, activation automatique du ventilateur en cas de forte chaleur.</li>
+        <img src="img/boite.jpg" alt="projet" class="projet">
+        <li>Création de plusieurs petits sites web personnels.</li>
+        <li>Manipulation de fichiers et modifications de texte sur Linux.</li>
+      </ul>
+    </section>
+
+
+
+    <section>
+      <h3>Ma Formation</h3>
+      <ul>
+        <li>Bac général – spécialités NSI et Maths</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
