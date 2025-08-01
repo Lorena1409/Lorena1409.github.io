@@ -83,8 +83,8 @@
 </head>
 <body>
   <div class="container">
-    <h2 class="title"> Recherche Alternance BTS SIO</h2>
-    <h1>Lorena Milioto</h1>
+    <h1 class="title"> Recherche Alternance BTS SIO</h1>
+    <h2>Lorena Milioto</h2>
 
     <div class="contact">
       <p> Secteur de mobilité : Lyon et alentours (accessible en transports)</p>
