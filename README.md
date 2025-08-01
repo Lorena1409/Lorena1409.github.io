@@ -7,77 +7,48 @@
   <link rel="stylesheet" href="style.css">
   <script src="script.js" defer></script>
   <style>
-    body {
-      font-family: 'Arial', sans-serif;
+    body { font-family: 'Arial', sans-serif;
       background-color: #fcc4f7;
       margin: 0;
       padding: 0;
-      color: #502c4d;
-    }
-    .container {
-      max-width: 900px;
+      color: #502c4d; }
+    .container { max-width: 900px;
       margin: auto;
       background-color: white;
       padding: 30px;
       border-radius: 10px;
       margin-top: 30px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h1 {
-      font-size: 20px;
-      margin: 5px 0;
-    }
-    h2.title {
-      font-size: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);}
+    h1 { font-size: 20px;
+      margin: 5px 0;}
+    h2.title {font-size: 30px;
       color: #fcc4f7;
-      margin-bottom: 5px;
-    }
-    .contact {
-      margin-bottom: 20px;
-    }
-    .contact p, .contact a {
-      margin: 5px 0;
-      font-size: 15px;
-    }
-    section {
-      margin-top: 30px;
-    }
-    h3 {
-      color: #fcc4f7;
+      margin-bottom: 5px;}
+    .contact {margin-bottom: 20px;}
+    .contact p, .contact a { margin: 5px 0; font-size: 15px;}
+    section { margin-top: 30px; }
+    h3 { color: #fcc4f7;
       border-bottom: 1px solid #ccc;
-      padding-bottom: 5px;
-    }
-    .competence-bar {
-      margin: 5px 0 10px;
-    }
-    .bar {
-      height: 10px;
+      padding-bottom: 5px;}
+    .competence-bar {margin: 5px 0 10px;}
+    .bar {height: 10px;
       background-color: #ddd;
       border-radius: 5px;
-      overflow: hidden;
-    }
-    .fill {
-      height: 10px;
-      background-color: #fcc4f7;
-    }
-    .github-logo {
-      width: 20px;
-      vertical-align: middle;
-    }
-    .highlight {
-      font-weight: bold;
-    }
+      overflow: hidden;}
+    .fill {height: 10px;
+      background-color: #fcc4f7;}
+    .github-logo { width: 20px;
+      vertical-align: middle;}
+    .highlight {font-weight: bold;}
 
-    .projet {
-  display: block;
+    .projet {display: block;
   margin: 0 auto;
   width: 150px;
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid #e0a7d4;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);}
 
   </style>
 </head>
