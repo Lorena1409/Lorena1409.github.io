@@ -54,7 +54,7 @@
 </head>
 <body>
   <div class="container">
-    <h1 class="title"> Recherche Alternance BTS SIO</h1>
+    <h1 class="title">  </h1>
     <h2>Lorena Milioto</h2>
 
     <div class="contact">
